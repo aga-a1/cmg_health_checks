@@ -17,4 +17,5 @@ def my_print():
 if __name__ == "__main__":
     main()
     my_print()
+    print("Finished")
 
